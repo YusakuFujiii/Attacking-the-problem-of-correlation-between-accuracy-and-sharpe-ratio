@@ -6,3 +6,4 @@ Here is the implementation to label financial observations .
 
 ### Discussion  
 - ストラテジーリターンが０の場合、学習から省くのか？
+  - 検証する
